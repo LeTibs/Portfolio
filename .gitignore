@@ -1,0 +1,15 @@
+# Ignorer les environnements virtuels
+venv/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les fichiers système inutiles (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers temporaires de Jupyter
+.ipynb_checkpoints/
+
