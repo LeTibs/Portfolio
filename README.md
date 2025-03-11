@@ -8,8 +8,8 @@ Bienvenue sur mon portfolio GitHub ! Ce dépôt regroupe mes projets en **Data S
 - 🛠️ **Compétences** : Python, Pandas, Scikit-Learn, SQL, Git, Docker.
 
 ## 📂 Projets disponibles :
-1. 🛳️ **[Titanic - Kaggle](./projets/Titanic/README.md)** → Analyse exploratoire et modèle de prédiction des survivants.
-2. 🏠 **[House Prices - Kaggle](./projets/HousePriceCalifornie/README.md)** → Prédiction des prix immobiliers avec du Machine Learning.
+1. 🛳️ **[Titanic - Kaggle](.Pprojets/Titanic/README.md)** → Analyse exploratoire et modèle de prédiction des survivants.
+2. 🏠 **[House Prices - Kaggle](./Projets/HousePriceCalifornie/README.md)** → Prédiction des prix immobiliers avec du Machine Learning.
 
 📫 **Me contacter** :
 - 📧 [Email](mailto:thibaultcolin.ent@gmail.com)
