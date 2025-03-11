@@ -22,7 +22,7 @@
 ```bash
 # Cloner le repo
 git clone https://github.com/LeTibs/portfolio-github.git
-cd portfolio-github/projets/titanic
+cd portfolio-github/Projets/Titanic
 
 # Installer les dépendances
 pip install -r requirements.txt
